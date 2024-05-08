@@ -17,7 +17,8 @@
 
 - :telescope: Являюсь выпускником курсов Я.Практикума по направлению "Python-разработчик плюс". На данный момент выполняю фриланс-заказы, уже имею успешно выполненные и сданные заказчику проекты.
 
-- :zap: В свободное время: работаю над пет-проектами - [Викторины по Python/Django с использованием фреймворка Ursina Engine](https://github.com/Igor-L12/Quiz_Games_Python-UrsinaEngine-.git), углублённо изучаю Django, Читаю книгу "Чистый Python" (Дэн Бэйдер).
+- :zap: В свободное время: работаю над пет-проектами - [Платформа об играх, кино, сериалах (пока только кино, но это пока) на Django](https://github.com/Igor-L12/Movie-Mosaic), 
+[Викторины по Python/Django с использованием фреймворка Ursina Engine](https://github.com/Igor-L12/Quiz_Games_Python-UrsinaEngine-.git), углублённо изучаю Django, Читаю книгу "Чистый Python" (Дэн Бэйдер).
 
 - :mailbox: Связь со мной: [![Gmail Badge](https://img.shields.io/badge/-IgorL12-white?style=flat&logo=Gmail&logoColor=red)](lybaev85@gmail.com)
 
