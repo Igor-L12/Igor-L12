@@ -19,7 +19,7 @@
 
 - :zap: В свободное время: Изучаю frontend-разработку, занимаюсь версткой и стилями, пишу скрипты на JavaScript. 
 
-- :mailbox: Связь со мной: [![Gmail Badge](https://img.shields.io/badge/-IgorL12-white?style=flat&logo=Gmail&logoColor=red)](lybaev85@gmail.com)
+- :mailbox: Связь со мной: [![Gmail Badge](https://img.shields.io/badge/-IgorL12-white?style=flat&logo=Gmail&logoColor=red)](filojob85@gmail.com)
 
 ---
 ### 📘: Моя Статистика :
